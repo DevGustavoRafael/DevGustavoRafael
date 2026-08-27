@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🔥 Developer | Programming Student | Technology Enthusiast | From Brazil 🔥
+  🔥 Developer | Programming Student | Technology Enthusiast 🔥
 </h3>
 
 <p align="center">
