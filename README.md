@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=DevGustavoRafael&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<!--redes sociais gustavo-->
+<!--redes sociais gustavo =) -->
 
 <p align="center">
 <a href="https://github.com/DevGustavoRafael">
