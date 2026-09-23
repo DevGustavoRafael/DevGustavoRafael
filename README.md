@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🔥 Developer | Programming Student | Technology Enthusiast 🔥
+  🔥 Backend Developer | Programming Student | Technology Enthusiast 🔥
 </h3>
 
 <p align="center">
@@ -42,16 +42,16 @@
 •🔎 <b>Known as:</b> Gustavo Rafael <br>
 •🗺️ <b>Location:</b> Brazil 🇧🇷 <br>
 •🗣️ <b>Languages:</b> Portuguese, English <br>
-•💻 <b>Programming in:</b> JavaScript, Java & Web Development <br>
+•💻 <b>Programming in:</b> Java, Python and Backend Development <br>
 •⭐ <b>How everything started:</b> My passion for technology started at an early age, and I began coding to create projects and solve real-world problems. <br>
-•🚀 <b>Currently learning:</b> React, Node.js, databases, and modern development tools. <br>
+•🚀 <b>Currently learning:</b> Java, Python, NodeJS, JavaScript, databases, and modern development tools. <br>
 •😂 <b>Fun Fact:</b> I love exploring new technologies and building random projects late at night.
 
 ---
 
 ## 💡 About Me
 
-•💻 Focused on JavaScript, Java, React, Node.js, and Web Development.  
+•💻 Focused on Java, Python, JavaScript, NodeJS and Backend Development.  
 •🚀 Always learning new technologies and improving my programming skills.  
 •🎯 Passionate about solving problems through code and building projects that make a difference.
 
